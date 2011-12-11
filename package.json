@@ -1,0 +1,8 @@
+{
+  "name": "watchmeread",
+    "version": "0.0.1",
+    "dependencies": {
+      "express": "2.5.2",
+      "hamljs" : "0.5.2"
+    }
+}
